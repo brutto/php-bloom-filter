@@ -1,0 +1,4 @@
+#summary This page will serve as repository for ideas.
+
+  # Spectral Bloom Filters [status: started]
+  # Various integrated storage engines - file, memory, memcache, others?
